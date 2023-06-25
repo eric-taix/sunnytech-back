@@ -1,0 +1,201 @@
+{
+  "name": "Big Conf",
+  "days": [
+    {
+      "date": "2016-10-10",
+      "tracks": [
+        {
+          "room": "Amphi 208",
+          "tags": ["big room"],
+          "slots": [
+            {
+              "id": "1",
+              "start": "09:00",
+              "end": "10:00",
+              "tags": ["keynote"],
+              "type": "CONF"
+            },
+            {
+              "id": "2",
+              "start": "10:00",
+              "end": "13:00",
+              "tags": [""],
+              "type": "WORKSHOP"
+            },
+            {
+              "id": "3",
+              "start": "13:00",
+              "end": "13:30",
+              "tags": [""],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "4",
+              "start": "13:30",
+              "end": "14:30",
+              "tags": [""],
+              "type": "CONF"
+            },
+            {
+              "id": "5",
+              "start": "14:30",
+              "end": "15:00",
+              "tags": [""],
+              "type": "CONF"
+            },
+            {
+              "id": "6",
+              "start": "15:00",
+              "end": "18:00",
+              "tags": [""],
+              "type": "UNIVERSITY"
+            }
+          ]
+        },
+        {
+          "room": "Amphi 209",
+          "tags": ["big room"],
+          "slots": [
+            {
+              "id": "7",
+              "start": "09:00",
+              "end": "12:00",
+              "tags": [""],
+              "type": "UNIVERSITY"
+            },
+            {
+              "id": "8",
+              "start": "13:00",
+              "end": "15:30",
+              "tags": [""],
+              "type": "QUICKIE"
+            }
+          ]
+        },
+        {
+          "room": "Salle 108",
+          "tags": [""],
+          "slots": [
+            {
+              "id": "9",
+              "start": "09:00",
+              "end": "18:00",
+              "tags": [""],
+              "type": "WORKSHOP"
+            }
+          ]
+        },
+        {
+          "room": "Amphi 208",
+          "tags": ["big room"],
+          "slots": [
+            {
+              "id": "10",
+              "start": "09:00",
+              "end": "10:00",
+              "tags": ["keynote"],
+              "type": "CONF"
+            },
+            {
+              "id": "11",
+              "start": "10:00",
+              "end": "13:00",
+              "tags": [""],
+              "type": "WORKSHOP"
+            }
+          ]
+        },
+        {
+          "room": "Amphi 208",
+          "tags": ["big room"],
+          "slots": [
+            {
+              "id": "12",
+              "start": "09:00",
+              "end": "10:00",
+              "tags": ["keynote"],
+              "type": "CONF"
+            },
+            {
+              "id": "13",
+              "start": "10:00",
+              "end": "13:00",
+              "tags": [""],
+              "type": "WORKSHOP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2016-10-10",
+      "tracks": [
+        {
+          "room": "Amphi 208",
+          "tags": ["big room"],
+          "slots": [
+            {
+              "id": "14",
+              "start": "09:00",
+              "end": "09:20",
+              "tags": ["keynote"],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "15",
+              "start": "10:00",
+              "end": "11:00",
+              "tags": [""],
+              "type": "UNIVERSITY"
+            }
+          ]
+        },
+        {
+          "room": "Amphi 209",
+          "tags": ["big room"],
+          "slots": [
+            {
+              "id": "16",
+              "start": "09:00",
+              "end": "10:00",
+              "tags": [""],
+              "type": "WORKSHOP"
+            },
+            {
+              "id": "17",
+              "start": "16:00",
+              "end": "18:00",
+              "tags": [""],
+              "type": "CONF"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "talks": [
+    {
+      "id": 1,
+      "title": "Java bien et toi",
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Eric T."
+        }
+      ],
+      "description": "Java malgré son âge, continue à évoluer"
+    },
+    {
+      "id": 2,
+      "title": "Bien commencer avec Flutter",
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Eric T."
+        }
+
+      ],
+      "description": "Le toolkit cross-plateform de Google est dans la hyper. Venez découvrir ses entrailles"
+    }
+  ]
+}

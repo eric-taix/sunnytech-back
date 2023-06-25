@@ -1,0 +1,911 @@
+{
+  "name": "SunnyTech",
+  "days": [
+    {
+      "date": "2023-06-29",
+      "tracks": [
+        {
+          "room": "Amphi P. Lamour",
+          "tags": [
+            "big room"
+          ],
+          "slots": [
+            {
+              "id": "AL0",
+              "start": "08:30",
+              "end": "09:00",
+              "tags": [],
+              "type": "PAUSE",
+              "size": 6
+            },
+            {
+              "id": "AL1",
+              "start": "09:00",
+              "end": "09:50",
+              "tags": [],
+              "size": 6,
+              "type": "OPENING_KEYNOTE"
+            },
+            {
+              "id": "AL2",
+              "start": "09:50",
+              "end": "10:10",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 6
+            },
+            {
+              "id": "AL3",
+              "start": "10:10",
+              "end": "11:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "AL4",
+              "start": "11:00",
+              "end": "11:20",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 4
+            },
+            {
+              "id": "AL5",
+              "start": "11:20",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "AL6",
+              "start": "12:10",
+              "end": "14:00",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 6
+            },
+            {
+              "id": "AL7",
+              "start": "14:00",
+              "end": "14:50",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "AL8",
+              "start": "14:50",
+              "end": "15:10",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 4
+            },
+            {
+              "id": "AL9",
+              "start": "15:10",
+              "end": "16:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "AL10",
+              "start": "16:00",
+              "end": "16:20",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 5
+            },
+            {
+              "id": "AL11",
+              "start": "16:20",
+              "end": "17:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "AL12",
+              "start": "17:10",
+              "end": "17:30",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 4
+            },
+            {
+              "id": "AL13",
+              "start": "17:30",
+              "end": "18:00",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "AL14",
+              "start": "18:00",
+              "end": "18:30",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            }
+          ]
+        },
+        {
+          "room": "Amphi 206",
+          "tags": [
+            "big room"
+          ],
+          "slots": [
+            {
+              "id": "A2063",
+              "start": "10:10",
+              "end": "11:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2065",
+              "start": "11:20",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2067",
+              "start": "14:00",
+              "end": "14:50",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2069",
+              "start": "15:10",
+              "end": "16:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A20611",
+              "start": "16:20",
+              "end": "17:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A20613",
+              "start": "17:30",
+              "end": "18:00",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "A20614",
+              "start": "18:00",
+              "end": "18:30",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            }
+          ]
+        },
+        {
+          "room": "Amphi 208",
+          "tags": [
+            "big room"
+          ],
+          "slots": [
+            {
+              "id": "A2083",
+              "start": "10:10",
+              "end": "11:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2085",
+              "start": "11:20",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2087",
+              "start": "14:00",
+              "end": "14:50",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2089",
+              "start": "15:10",
+              "end": "16:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A20811",
+              "start": "16:20",
+              "end": "17:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A20813",
+              "start": "17:30",
+              "end": "18:00",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "A20814",
+              "start": "18:00",
+              "end": "18:30",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            }
+          ]
+        },
+        {
+          "room": "Salle 1",
+          "tags": [],
+          "slots": [
+            {
+              "id": "S13",
+              "start": "10:10",
+              "end": "11:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "S15",
+              "start": "11:20",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "S17",
+              "start": "14:00",
+              "end": "14:50",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "S19",
+              "start": "15:10",
+              "end": "16:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "S111",
+              "start": "16:20",
+              "end": "17:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "S113",
+              "start": "17:30",
+              "end": "18:00",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "S114",
+              "start": "18:00",
+              "end": "18:30",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            }
+          ]
+        },
+        {
+          "room": "Salle 2",
+          "tags": [],
+          "slots": [
+            {
+              "id": "S23",
+              "start": "10:10",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "WORKSHOP"
+            },
+            {
+              "id": "S25",
+              "start": "14:00",
+              "end": "16:00",
+              "tags": [
+                ""
+              ],
+              "type": "WORKSHOP"
+            },
+            {
+              "id": "S27",
+              "start": "16:20",
+              "end": "18:30",
+              "tags": [
+                ""
+              ],
+              "type": "WORKSHOP"
+            }
+          ]
+        },
+        {
+          "room": "Trop chaud",
+          "tags": [],
+          "slots": [
+            {
+              "id": "TC3",
+              "start": "10:10",
+              "end": "11:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "TC4",
+              "start": "11:00",
+              "end": "11:20",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE"
+            },
+            {
+              "id": "TC5",
+              "start": "11:20",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2023-06-30",
+      "tracks": [
+        {
+          "room": "Amphi P. Lamour",
+          "tags": [
+            "big room"
+          ],
+          "slots": [
+            {
+              "id": "AL0",
+              "start": "08:30",
+              "end": "09:00",
+              "tags": [],
+              "type": "PAUSE",
+              "size": 6
+            },
+            {
+              "id": "AL1",
+              "start": "09:00",
+              "end": "09:50",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "AL2",
+              "start": "09:50",
+              "end": "10:10",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 6
+            },
+            {
+              "id": "AL3",
+              "start": "10:10",
+              "end": "11:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "AL4",
+              "start": "11:00",
+              "end": "11:20",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 4
+            },
+            {
+              "id": "AL5",
+              "start": "11:20",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "AL6",
+              "start": "12:10",
+              "end": "14:00",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 5
+            },
+            {
+              "id": "AL7",
+              "start": "14:00",
+              "end": "14:30",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "AL8",
+              "start": "14:30",
+              "end": "15:00",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "AL",
+              "start": "15:00",
+              "end": "15:20",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 5
+            },
+            {
+              "id": "AL10",
+              "start": "15:20",
+              "end": "16:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "AL11",
+              "start": "16:10",
+              "end": "16:30",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 4
+            },
+            {
+              "id": "AL12",
+              "start": "16:30",
+              "end": "17:20",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "AL13",
+              "start": "17:20",
+              "end": "17:30",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE",
+              "size": 5
+            },
+            {
+              "id": "AL14",
+              "start": "17:30",
+              "end": "18:30",
+              "tags": [
+                ""
+              ],
+              "type": "CLOSING_KEYNOTE",
+              "size": 5
+            }
+          ]
+        },
+        {
+          "room": "Amphi 206",
+          "tags": [
+            "big room"
+          ],
+          "slots": [
+            {
+              "id": "A2061",
+              "start": "09:00",
+              "end": "09:50",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2063",
+              "start": "10:10",
+              "end": "11:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2065",
+              "start": "11:20",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2067",
+              "start": "14:00",
+              "end": "14:30",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "A2068",
+              "start": "14:30",
+              "end": "15:00",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "A20610",
+              "start": "15:20",
+              "end": "16:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A20612",
+              "start": "16:30",
+              "end": "17:20",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            }
+          ]
+        },
+        {
+          "room": "Amphi 208",
+          "tags": [
+            "big room"
+          ],
+          "slots": [
+            {
+              "id": "A2081",
+              "start": "09:00",
+              "end": "09:50",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2083",
+              "start": "10:10",
+              "end": "11:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2085",
+              "start": "11:20",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A2087",
+              "start": "14:00",
+              "end": "14:30",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "A2088",
+              "start": "14:30",
+              "end": "15:00",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "A20810",
+              "start": "15:20",
+              "end": "16:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "A20812",
+              "start": "16:30",
+              "end": "17:20",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            }
+          ]
+        },
+        {
+          "room": "Salle 1",
+          "tags": [
+            "big room"
+          ],
+          "slots": [
+            {
+              "id": "S11",
+              "start": "09:00",
+              "end": "09:50",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "S13",
+              "start": "10:10",
+              "end": "11:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "S15",
+              "start": "11:20",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "S17",
+              "start": "14:00",
+              "end": "14:30",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "S18",
+              "start": "14:30",
+              "end": "15:00",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "S110",
+              "start": "15:20",
+              "end": "16:10",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "S112",
+              "start": "16:30",
+              "end": "17:20",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            }
+          ]
+        },
+        {
+          "room": "Salle 2",
+          "tags": [],
+          "slots": [
+            {
+              "id": "S21",
+              "start": "09:00",
+              "end": "09:50",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "S23",
+              "start": "10:10",
+              "end": "12:10",
+              "tags": [
+                ""
+              ],
+              "type": "WORKSHOP"
+            },
+            {
+              "id": "S27",
+              "start": "14:00",
+              "end": "14:30",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "S28",
+              "start": "14:30",
+              "end": "15:00",
+              "tags": [
+                ""
+              ],
+              "type": "QUICKIE"
+            },
+            {
+              "id": "S29",
+              "start": "15:20",
+              "end": "17:20",
+              "tags": [
+                ""
+              ],
+              "type": "WORKSHOP"
+            }
+          ]
+        },
+        {
+          "room": "Trop chaud",
+          "tags": [
+            "big room"
+          ],
+          "slots": [
+            {
+              "id": "TC1",
+              "start": "09:00",
+              "end": "09:50",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "TC3",
+              "start": "10:10",
+              "end": "11:00",
+              "tags": [
+                ""
+              ],
+              "type": "CONF"
+            },
+            {
+              "id": "TC4",
+              "start": "11:00",
+              "end": "11:20",
+              "tags": [
+                ""
+              ],
+              "type": "PAUSE"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "talks": [
+    {
+      "id": 1,
+      "title": "Java bien et toi",
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Eric T."
+        }
+      ],
+      "description": "Java malgré son âge, continue à évoluer"
+    },
+    {
+      "id": 2,
+      "title": "Bien commencer avec Flutter",
+      "tags": [],
+      "speakers": [
+        {
+          "name": "Eric T."
+        }
+      ],
+      "description": "Le toolkit cross-plateform de Google est dans la hyper. Venez découvrir ses entrailles"
+    }
+  ]
+}
